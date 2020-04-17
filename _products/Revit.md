@@ -18,6 +18,6 @@ sizes:
 styles:
   - name: Black
     color: '#000000'
-    image: /images/products/elephant/blue.jpg
+    image: /images/products/elephant/green.png
   
 ---
