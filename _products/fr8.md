@@ -1,5 +1,5 @@
 ---
-name: Delphi 7 Mód.1
+name: Delphi 7 Mód.I
 description_markdown: >-
  Neste curso você aprenderá um pouco sobre o mundo Delphi, criando vários programas simples, porém, que mostraram para você como é fácil ingressar no mundo das linguagens de programação.
 
