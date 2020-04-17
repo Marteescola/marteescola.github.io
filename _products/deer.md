@@ -1,12 +1,11 @@
 ---
-name: Sacha the Deer
+name: 3D Studio Max
 description_markdown: >-
-  Sacha's elegant antlers have never been seen on such a beautiful t-shirt. Wear
-  this majestic beast and feel all your problems float away.
+  No curso do 3D Studio Max 2018 foram ensinadas as modelagens de um cenário e um personagem lunático voltado para games. As novidades mais relevantes são a utilização de ferramentas dos painéis Freeform, onde você poderá modelar ou melhor, "pintar" o relevo do terreno do cenário com pincéis e técnicas para modelagem de um personagem utilizando o modificador Symmetry, que é responsável por agilizar nossas modelagens, de forma que duplique um objeto para completá-lo, transformando-o em inversamente proporcional.
 
 
 
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  Duração: 18 horas.
 garment_type:
 price: '9.00'
 sku: deer
@@ -20,13 +19,5 @@ styles:
   - name: Black
     color: '#000000'
     image: /images/products/deer/black.jpg
-  - name: Blue
-    color: '#39589e'
-    image: /images/products/deer/blue.jpg
-  - name: Clay
-    color: '#9c5145'
-    image: /images/products/deer/clay.jpg
-  - name: Cream
-    color: '#dfd3c2'
-    image: /images/products/deer/cream.jpg
+  
 ---
