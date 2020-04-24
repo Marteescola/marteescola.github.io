@@ -1,115 +1,16 @@
 layout: default	
 ---	---
 <div class="content">
-	<!doctype html>
-
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-
-		{% seo %}
-
-		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
-		<link href="css/bootstrap.min.css" rel="stylesheet">
-<script src="css/jquery.min.js"></script>
-  <script src="css/bootstrap.bundle.min.js"></script>
-
-  <!-- Plugin JavaScript -->
-  <script src="css/jquery.easing.min.js"></script>
-
-  <!-- Contact form JavaScript -->
-  <script src="css/jqBootstrapValidation.js"></script>
-  <script src="css/contact_me.min.js"></script>
-
-  <!-- Custom scripts for this template -->
-  <script src="css/agency.min.js"></script>
-
-  <!-- Custom fonts for this template -->
-  <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-  <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-
-  <!-- Custom styles for this template -->
-  <link href="css/agency.min.css" rel="stylesheet">
-		<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css">
-		<link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon.png">
-		<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" type="text/css" rel="stylesheet">
-
-		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
-			<script>
-				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-				ga('create', '{{ site.google_analytics_key }}', 'auto');
-				ga('send', 'pageview');
-			</script>
-			<script async src='https://www.google-analytics.com/analytics.js'></script>
-		{% endif %}
-
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
-		{% if site.snipcart_key %}
-			<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="{{ site.snipcart_key }}"></script>
-		{% endif %}
-	</head>
-	<body>
-
-			<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-
-
-    <div class="container">
-
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive"
-        aria-controls="navbarResponsive" aria-expanded="false">
-        Menu
-        <i class="fa fa-bars"></i>
-      </button>
-
-
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <a class="nav-link js-scroll-trigger" href="#page-top"><img class="logu" src="logo.png"></a>
-        <ul class="navbar-nav text-uppercase ml-auto">
-           <li class="nav-item">
-
-
-
-          </li>
-
-          <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#portfolio">NOSSOS CURSOS</a>
-          </li> 
-          <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="https://api.whatsapp.com/send?phone=5514981741431">CURSO TQS</a>
-          </li>
-           <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="https://api.whatsapp.com/send?phone=5514981741431">CURSO REVIT</a>
-          </li>
-           <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="https://api.whatsapp.com/send?phone=5514981741431">CURSO ROBÓTICA</a>
-          </li> 
-
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#about">MÉTODO</a>
-          </li>
-
-
-
-          <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#team">SOBRE NÓS</a>
-          </li> 
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#contact">CONTATO</a>
-          </li>
-
-           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" target="_blank" link rel="canonical" href='http://blog.escolamarte.com.br'>BLOG</a></li>
-            <div><a class="btn btn-primary1 btn-xl text-uppercase js-scroll-trigger" target="_blank" href="https://api.whatsapp.com/send?phone=5514981741431">SUPER DESCONTO!</a></div>
-
-
-
-
-</body>
+	
 	<section class="page">
 		<div class="container">			
-	<div class="product-container">				
+	<div class="product-container">	
+		{{ page.description_markdown | markdownify }}
+
+					<h4>${{ page.price }}</h4>
+					<button target="_blank" href='https://escolamarte.com.br/compra/'>Comprar</button>
+					<div class="button"><a button target="_blank" href='https://escolamarte.com.br/compra/'>Comprar</button>
+					</div> 
+				</div>
+			</div>
+		</div>
