@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-{% include navigation.html %}
 <div class="content">
 	<section class="page">
 		<div class="container">
@@ -12,7 +11,8 @@ layout: default
 					{{ page.description_markdown | markdownify }}
 
 					<h4>${{ page.price }}</h4>
-					<div class="button">{% include snipcart-button.html product=page %}</div>
+					<div class="button"><a button target="_blank" href='https://escolamarte.com.br/compra/'>Comprar</button>
+					</div> 
 				</div>
 			</div>
 		</div>
