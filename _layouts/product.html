@@ -2180,4 +2180,4 @@ var isEmbed=window.parent!==window;if(!isEmbed){return;}
 if(window.location.href.indexOf('disableSmartEmbed')>-1){return;}
 var formCSS=document.getElementById('form-css');if(!formCSS){return;}
 var parser=document.createElement('a');parser.href=formCSS.href;var params=parser.search.toQueryParams();var embedUrl=params.embedUrl||document.URL;var referrerHash=getMD5(embedUrl);['resetSmartStyle','clearSmartStyle','clearInlineStyle'].each(function(key){var regexPattern=new RegExp('&?'+key+'(?:=[0-9]*)?');var matches=regexPattern.exec(embedUrl);if(matches&&matches[0]){embedUrl=embedUrl.replace(matches[0],'');var keyValue=matches[0].replace('&','').split('=');params[keyValue[0]]=keyValue[1]!==undefined?keyValue[1]:'1';}});if(params.embedUrl){delete(params.embedUrl);}
-params=Object.toQueryString(params);params+=(params!==
+							params=Object.toQueryString(params);params+=(params!==</script>
