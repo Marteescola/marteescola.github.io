@@ -10,14 +10,22 @@ description_markdown: >-
   <p>Carga horária: 40 horas.</p>
   <p>Orientador: Engº Nilson Vianna.</p>
   <p>Tipo de curso: Hands On.</p>
-  <p>Quem pode particiar: Engenheiros e estudantes de engenharia.</p>
+  <p>Quem pode participar: Engenheiros e estudantes de engenharia.</p>
 
 
 
   Duração: 18 horas.
 garment_type:
 price: '49.90'
-sku: 3D Studio Max
+sku: Desenvolvimento de um projeto completo de edifício de concreto armado – Verificação e análise dos resultados do projeto desenvolvido no curso.
+
+<p>Serão abordados neste curso:
+
+    <p>•  Concepção Estrutural: Criação de Edifício, Preparação dos desenhos de arquitetura de definição dos elementos estruturais no Modelador Estrutural</p>
+    <p>•  Análise de estabilidade Global</p>
+    <p>•  Análise Estrutural: Identificação e verificação de esforços solicitantes em Grelha e Pórtico Espacial</p>
+    <p>•  Cálculo e Detalhamento de Armaduras: Lajes, vigas, pilares e Elementos de fundação</p>
+    <p>•  Edição de plantas e Plotagem</p>
 stock: 10
 sizes:
   - Small
