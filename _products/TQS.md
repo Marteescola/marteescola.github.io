@@ -17,7 +17,9 @@ description_markdown: >-
   
 garment_type:
 price: '49.90'
-sku: '<p>Desenvolvimento de um projeto completo de edifício de concreto armado – Verificação e análise dos resultados do projeto desenvolvido no curso.</p><p>Serão abordados neste curso:<p>•  Concepção Estrutural: Criação de Edifício, Preparação dos desenhos de arquitetura de definição dos elementos estruturais no Modelador Estrutural</p><p>•  Análise de estabilidade Global</p><p>•  Análise Estrutural: Identificação e verificação de esforços solicitantes em Grelha e Pórtico Espacial</p><p>•  Cálculo e Detalhamento de Armaduras: Lajes, vigas, pilares e Elementos de fundação</p><p>•  Edição de plantas e Plotagem</p>'
+sku: '<p>Desenvolvimento de um projeto completo de edifício de concreto armado – Verificação e análise dos resultados do projeto desenvolvido no curso.</p><p>Serão abordados neste curso:<p>•  Concepção Estrutural: Criação de Edifício, Preparação dos desenhos de arquitetura de definição dos elementos estruturais no Modelador Estrutural</p><p>•  Análise de estabilidade Global</p><p>•  Análise Estrutural: Identificação e verificação de esforços solicitantes em Grelha e Pórtico Espacial</p><p>•  Cálculo e Detalhamento de Armaduras: Lajes, vigas, pilares e Elementos de fundação</p><p>•  Edição de plantas e Plotagem</p>
+<br><br>
+<a id="bim" class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" target="_blank" href="https://i.imgur.com/rLJwSl8.jpg">Sistema BIM</a>'
 stock: 10
 sizes:
   - Small
