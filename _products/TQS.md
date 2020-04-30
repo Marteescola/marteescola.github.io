@@ -7,10 +7,10 @@ description_markdown: >-
 
 
 
-  Carga horária: 40 horas.
-  Orientador: Engº Nilson Vianna.
-  Tipo de curso: Hands On.
-  Quem pode particiar: Engenheiros e estudantes de engenharia.
+  <p>Carga horária: 40 horas.</p>
+  <p>Orientador: Engº Nilson Vianna.</p>
+  <p>Tipo de curso: Hands On.</p>
+  <p>Quem pode particiar: Engenheiros e estudantes de engenharia.</p>
 
 
 
