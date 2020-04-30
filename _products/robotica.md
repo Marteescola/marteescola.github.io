@@ -8,7 +8,8 @@ description_markdown: >-
   
 garment_type:
 price: '49.90'
-sku: '<div class="container">
+sku: '<link href="css/agency.min.css" rel="stylesheet">
+      <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
     <h3 class="section-subheading text-muted"></h3>
