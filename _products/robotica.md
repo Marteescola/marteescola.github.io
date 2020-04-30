@@ -39,7 +39,7 @@ sku: '<link href="css/agency.min.css" rel="stylesheet">
                  <h4>Vida e Carreira</h4>
              </div>
 </div>
-            <img class="img-fluid" src="https://i.imgur.com/rLJwSl8.jpg" alt="">
+            <img class="img-fluid" src="https://i.imgur.com/EonfuoB.png" alt="">
           </a>
           <div class="portfolio-captione">
            <p class="text-muted">Adaptabilidade</p>
