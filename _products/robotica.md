@@ -8,8 +8,7 @@ description_markdown: >-
   
 garment_type:
 price: '49.90'
-sku: 'section class="bg-light" id="portfolio">
-    <div class="container">
+<div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">SOBRE A ROBÓTICA</h2>
