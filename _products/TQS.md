@@ -1,7 +1,16 @@
 ---
-name: 3D Studio Max
+name: Curso de TQS
 description_markdown: >-
-  No curso do 3D Studio Max 2018 foram ensinadas as modelagens de um cenário e um personagem lunático voltado para games. As novidades mais relevantes são a utilização de ferramentas dos painéis Freeform, onde você poderá modelar ou melhor, "pintar" o relevo do terreno do cenário com pincéis e técnicas para modelagem de um personagem utilizando o modificador Symmetry, que é responsável por agilizar nossas modelagens, de forma que duplique um objeto para completá-lo, transformando-o em inversamente proporcional.
+  Esse curso oferece uma visão prática geral dos sistemas e esclarece o funcionamento dos principais comandos básicos e avançados do TQS.
+  Indicado para usuários iniciantes no TQS Concreto Armado.
+  Está totalmente baseado em um edifício exemplo e suas apresentações são compostas por slides explicativos e comentados, acompanhados da operação real do sistema, onde cada aluno irá utilizar computador fornecido pela instituição.
+
+
+
+  Carga horária: 40 horas.
+  Orientador: Engº Nilson Vianna.
+  Tipo de curso: Hands On.
+  Quem pode particiar: Engenheiros e estudantes de engenharia.
 
 
 
