@@ -22,7 +22,7 @@ sku: '<link href="css/agency.min.css" rel="stylesheet">
                 <div><a class="btn" href="">Inovação</a></div>
               </div>
             </div>
-            <img class="img-fluid" src="img/portfolio/b.png" alt="">
+            <img class="img-fluid" src="images/b.png" alt="">
           </a>
           <div class="portfolio-captione">
 <h4>Mundo 3D</h4>
@@ -40,7 +40,7 @@ sku: '<link href="css/agency.min.css" rel="stylesheet">
                 <a class="btn" href="">Vida e Carreira</a>
               </div>
 </div>
-            <img class="img-fluid" src="img/portfolio/a.png" alt="">
+            <img class="img-fluid" src="images/a.png" alt="">
           </a>
           <div class="portfolio-captione">
             <h4>Mercado</h4>
@@ -58,7 +58,7 @@ sku: '<link href="css/agency.min.css" rel="stylesheet">
               <div><a class="btn" href="">Tecnológicas</a></div>
               </div>
             </div>
-            <img class="img-fluide" src="img/portfolio/c.png" alt="">
+            <img class="img-fluide" src="images/c.png" alt="">
           </a>
           <div class="portfolio-captione">
             <h4>Animação</h4>
