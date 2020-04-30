@@ -27,6 +27,6 @@ sizes:
 styles:
   - name: Black
     color: '#000000'
-    image: /images/products/deer/black.png
+    image: /images/products/deer/1.jpeg
   
 ---
