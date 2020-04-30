@@ -40,7 +40,7 @@ sku: '<link href="css/agency.min.css" rel="stylesheet">
                 <a class="btn" href="">Vida e Carreira</a>
               </div>
 </div>
-            <img class="img-fluid" src="images/a.png" alt="">
+            <img class="img-fluid" src="https://i.imgur.com/rLJwSl8.jpg" alt="">
           </a>
           <div class="portfolio-captione">
             <h4>Mercado</h4>
