@@ -5,9 +5,6 @@ description_markdown: >-
 
 
 
-
-
-
   Duração: 17 horas.
 garment_type:
 price: '49.90'
@@ -21,6 +18,6 @@ sizes:
 styles:
   - name: Black
     color: '#000000'
-    image: /images/products/elephant/assistente.png
+    image: /images/products/deer/black.png
   
 ---
