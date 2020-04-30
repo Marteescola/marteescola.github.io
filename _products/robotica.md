@@ -11,8 +11,7 @@ price: '49.90'
 sku: '<div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-uppercase">SOBRE A ROBÓTICA</h2>
-          <h3 class="section-subheading text-muted"></h3>
+    <h3 class="section-subheading text-muted"></h3>
         </div>
       </div>
       <div class="row">
