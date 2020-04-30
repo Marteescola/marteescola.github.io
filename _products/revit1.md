@@ -9,6 +9,8 @@ description_markdown: >-
   <p>Orientador: Engº Jeferson Barbosa.</p>
   <p>Tipo de curso: Hands On.</p>
   <p>Quem pode participar: Estudantes relacionados a arquitetura, Técnico em edificações, graduandos e graduados em Engenharia e Arquitetura, Desenhistas e Projetistas em CAD, Usuários em tecnologia BIM e demais interessados.</p>
+  <br><br>
+  <a id="bim" class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" target="_blank" href="https://i.imgur.com/rLJwSl8.jpg">Sistema BIM</a>
 
 
 
