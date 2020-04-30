@@ -37,13 +37,14 @@ sku: '<link href="css/agency.min.css" rel="stylesheet">
         <div class="col-md-4 col-sm-6 portfolio-item">
           <div class="portfolio-hover">
               <div class="portfolio-hover-content">
-                <a class="btn" href="">Vida e Carreira</a>
+                 <h4>Mercado</h4>
+                
               </div>
 </div>
             <img class="img-fluid" src="https://i.imgur.com/rLJwSl8.jpg" alt="">
           </a>
           <div class="portfolio-captione">
-            <h4>Mercado</h4>
+            
             <p class="text-muted">Adaptabilidade</p>
             <p class="text-muted">Responsabilidade</p>
             <p class="text-muted">Liderança</p>
