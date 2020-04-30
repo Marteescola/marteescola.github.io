@@ -22,7 +22,7 @@ sku: '<link href="css/agency.min.css" rel="stylesheet">
                 <h4>Inovação</h4>
               </div>
             </div>
-            <img class="img-fluid" src="images/b.png" alt="">
+            <img class="img-fluid" src="https://i.imgur.com/3dCoLsU.png" alt="">
           </a>
           <div class="portfolio-captione">
             <p class="text-muted">Criatividade</p>
@@ -56,7 +56,7 @@ sku: '<link href="css/agency.min.css" rel="stylesheet">
               <h4>Tecnológicas</h4>
               </div>
             </div>
-            <img class="img-fluide" src="images/c.png" alt="">
+            <img class="img-fluide" src="https://i.imgur.com/kWshmv0.png" alt="">
           </a>
           <div class="portfolio-captione">
            <p class="text-muted">Raciocínio lógico</p>
