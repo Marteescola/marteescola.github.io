@@ -1,14 +1,17 @@
 ---
-name: 3D Studio Max
+name: Assistente Contábil 3.0
 description_markdown: >-
-  No curso do 3D Studio Max 2018 foram ensinadas as modelagens de um cenário e um personagem lunático voltado para games. As novidades mais relevantes são a utilização de ferramentas dos painéis Freeform, onde você poderá modelar ou melhor, "pintar" o relevo do terreno do cenário com pincéis e técnicas para modelagem de um personagem utilizando o modificador Symmetry, que é responsável por agilizar nossas modelagens, de forma que duplique um objeto para completá-lo, transformando-o em inversamente proporcional.
+  O curso ensinará a fundo sobre quem é o assistente contábil e qual a sua função no mercado.
 
 
 
-  Duração: 18 horas.
+
+
+
+  Duração: 17 horas.
 garment_type:
 price: '49.90'
-sku: <p id="30"><h5>&nbsp;</h5><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 1 - Apresentando o 3D Studio</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 2 - Viewports</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 3 - Criação e modificação de objetos</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 4 - Navegação e Visualização de Viewports</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 5 - Começando a modelagem</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 6 - Gizmo</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 7 - Modelagem Poligonal</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 8 - Trabalhando com Extrude</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 9 - Modelando a entrada do Hotel - Parte I</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 10 - Modelando a entrada do Hotel - Parte II</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 11 - Modelando uma Torre</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 12 - Finalizando e clonando a Torre</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 13 - Torre Principal - Parte I</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 14 - Torre Principal - Parte II</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 15 - Symmetry</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 16 - Shell</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 17 - Modelando um Hospital</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 18 - Collapse All</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 19 - Weld</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 20 - Shapes</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 21 - Bend</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 22 - Paint Deform</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 23 - UVW Map</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 24 - Aplicando Materiais</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 25 - Imagens de Referência</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 26 - Iniciando a modelagem do personagem</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 27 - Modelagem da cabeça</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 28 - Modelando o braço e a mão</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 29 - Modelando a antena</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 30 - Roupa do Personagem</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 31 - Unwrap UVW</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 32 - Pintando o Mapa de Textura</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 33 - Import Merge</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 34 - Câmera</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 35 - Environment and Effects</p><p>&nbsp;<i class="fa fa-book">&nbsp;</i>Aula 36 - Render</p></p>
+sku: '<p id="54"><h5>&nbsp;</h5><p>&nbsp;,</i>Aula 1 - O que é contabilidade</p><p>&nbsp;,</i>Aula 2 - Facilidade com cálculos e raciocínio analítco</p><p>&nbsp;,</i>Aula 3 - Tipos de empresas</p><p>&nbsp;,</i>Aula 4 - Ser resiliente com liderança para exercer o poder de decisão</p><p>&nbsp;,</i>Aula 5 - O gestor de recursos</p><p>&nbsp;,</i>Aula 6 - A relação do tripé: Conhecer - Adequar - Atender</p><p>&nbsp;,</i>Aula 7 - Atvidades de Relacionamento Pessoal</p><p>&nbsp;,</i>Aula 8 - Atvidades na função</p><p>&nbsp;,</i>Aula 9 - Contas do Passivo</p><p>&nbsp;,</i>Aula 10 - Método das Partidas Dobradas</p><p>&nbsp;,</i>Aula 11 - Balancete de Verifcação</p><p>&nbsp;,</i>Aula 12 - Balanço Patrimonial</p><p>&nbsp;,</i>Aula 13 - Escrituração contábil</p><p>&nbsp;,</i>Aula 14 - Suporte às equipes de trabalho</p><p>&nbsp;,</i>Aula 15 - Necessidades da Empresa</p><p>&nbsp;,</i>Aula 16 - Educação Corporatva</p><p>&nbsp;,</i>Aula 17 - O que é a inteligência emocional?</p><p>&nbsp;,</i>Aula 18 - Envolvimento Emocional</p><p>&nbsp;,</i>Aula 19 - Assistente Metacompetente</p><p>&nbsp;,</i>Aula 20 - Termos Utlizados na Administração e no Marketing</p><p>&nbsp;,</i>Aula 21 - Análise de resultados fnanceiros</p><p>&nbsp;,</i>Aula 22 - Análise do Negócio</p><p>&nbsp;,</i>Aula 23 - Níveis e Tipos de Decisões</p><p>&nbsp;,</i>Aula 24 - Fases das Tomadas de Decisões</p><p>&nbsp;,</i>Aula 25 - Computação em Nuvem</p><p>&nbsp;,</i>Aula 26 - Utlização e Segurança dos Recursos na Nuvem</p><p>&nbsp;,</i>Aula 27 - O Dia A Dia do Assistente Contábil - Parte 1</p><p>&nbsp;,</i>Aula 28 - O Dia A Dia do Assistente Contábil - Parte 2</p><p>&nbsp;,</i>Aula 29 - Suporte à Gestão de Pessoas - Parte 1</p><p>&nbsp;,</i>Aula 30 - Suporte à Gestão de Pessoas - Parte 2</p><p>&nbsp;,</i>Aula 31 - Étca Profssional - Parte 1</p><p>&nbsp;,</i>Aula 32 - Étca Profssional - Parte 2</p><p>&nbsp;,</i>Aula 33 - Elaboração do Currículo</p><p>&nbsp;,</i>Aula 34 - A Entrevista</p></p>'
 stock: 10
 sizes:
   - Small
@@ -18,6 +21,6 @@ sizes:
 styles:
   - name: Black
     color: '#000000'
-    image: /images/products/deer/black.png
+    image: /images/products/elephant/assistente.png
   
 ---
