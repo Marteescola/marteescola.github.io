@@ -19,13 +19,12 @@ sku: '<link href="css/agency.min.css" rel="stylesheet">
         <div class="col-md-4 col-sm-6 portfolio-item">
          <div class="portfolio-hover">
               <div class="portfolio-hover-content">
-                <div><a class="btn" href="">Inovação</a></div>
+                <h4>Inovação</h4>
               </div>
             </div>
             <img class="img-fluid" src="images/b.png" alt="">
           </a>
           <div class="portfolio-captione">
-<h4>Mundo 3D</h4>
             <p class="text-muted">Criatividade</p>
             <p class="text-muted">Pensamento crítico</p>
             <p class="text-muted">Resolução de problemas</p>
@@ -37,15 +36,13 @@ sku: '<link href="css/agency.min.css" rel="stylesheet">
         <div class="col-md-4 col-sm-6 portfolio-item">
           <div class="portfolio-hover">
               <div class="portfolio-hover-content">
-                 <h4>Mercado</h4>
-                
-              </div>
+                 <h4>Vida e Carreira</h4>
+             </div>
 </div>
             <img class="img-fluid" src="https://i.imgur.com/rLJwSl8.jpg" alt="">
           </a>
           <div class="portfolio-captione">
-            
-            <p class="text-muted">Adaptabilidade</p>
+           <p class="text-muted">Adaptabilidade</p>
             <p class="text-muted">Responsabilidade</p>
             <p class="text-muted">Liderança</p>
             <p class="text-muted">Produtividade</p>
@@ -56,14 +53,13 @@ sku: '<link href="css/agency.min.css" rel="stylesheet">
         <div class="col-md-4 col-sm-6 portfolio-item">
            <div class="portfolio-hover">
               <div class="portfolio-hover-content">
-              <div><a class="btn" href="">Tecnológicas</a></div>
+              <h4>Tecnológicas</h4>
               </div>
             </div>
             <img class="img-fluide" src="images/c.png" alt="">
           </a>
           <div class="portfolio-captione">
-            <h4>Animação</h4>
-            <p class="text-muted">Raciocínio lógico</p>
+           <p class="text-muted">Raciocínio lógico</p>
             <p class="text-muted">Análise de dados</p>
             <p class="text-muted">Algoritmos e programação</p>
             <p class="text-muted">Matemática avançada</p>
