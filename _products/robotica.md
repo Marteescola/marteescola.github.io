@@ -20,7 +20,7 @@ price: '<div id="crossfade">
         margin-top: 1500px;
     margin-left: 300px; 
     width: 50% ;
-    height: 1250px;
+    height: 900px;
     position: absolute;
     top: 0px;
     left: 0px;
