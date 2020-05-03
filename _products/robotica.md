@@ -117,7 +117,7 @@ price: '<div id="crossfade">
 @media (max-width: 1600px) {
 #crossfade > img {
     margin-top: 1500px;
-    margin-left: 300px; 
+    margin-left: 200px; 
     width: 50% ;
     height: 500px;
     position: absolute;
