@@ -8,11 +8,11 @@ description_markdown: >-
   
 garment_type:
 price: '<div id="crossfade">
-  <img src="images/1.jpg">
-  <img src="images/2.jpg">
-  <img src="images/3.jpg">
-  <img src="images/4.jpg">
-  <img src="images/5.jpg">
+  <img src="https://i.imgur.com/6u4qWU3.jpg">
+  <img src="https://i.imgur.com/JARzQEy.jpg">
+  <img src="https://i.imgur.com/gWh4rFm.jpg">
+  <img src="https://i.imgur.com/xfo6MOd.jpg">
+  <img src="https://i.imgur.com/9kkNKR7.jpg">
 </div>
 <style>
 #crossfade > img {
