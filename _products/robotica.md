@@ -17,7 +17,7 @@ price: '<div id="crossfade">
 <style>
 @media (min-width: 2000px) and (min-height: 1500px) {
 	#crossfade > img {
-	margin-bot: 200px;
+	margin-bottom: 500px;
         margin-top: 1400px;
     margin-left: 300px; 
     width: 50% ;
