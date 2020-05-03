@@ -15,8 +15,7 @@ price: '<div id="crossfade">
   <img src="https://i.imgur.com/9kkNKR7.jpg">
 </div>
 <style>
-
-	@media (min-width: 2000px) and (min-height: 1500px) {
+@media (min-width: 2000px) and (min-height: 1500px) {
 	#crossfade > img {
         margin-top: 1500px;
     margin-left: 300px; 
