@@ -7,7 +7,8 @@ description_markdown: >-
 
   
 garment_type:
-price: 
+price:
+cu:
 sku: '<link href="css/agency.min.css" rel="stylesheet">
       <div class="container">
       <div class="row">
