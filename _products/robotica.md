@@ -118,7 +118,7 @@ cu: '<div id="crossfade">
 }
 @media (max-width: 1600px) {
 #crossfade > img {
-    margin-top: 2000px;
+    margin-top: 1900px;
     margin-left: 100px; 
     width: 50% ;
     height: 500px;
