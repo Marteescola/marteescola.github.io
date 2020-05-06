@@ -2805,7 +2805,11 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"enviar","qid":"2","text":"Envi
 
       
         <div class="product-details" id="add">
-          
+          <h3>{{ page.name }}</h3>
+          {{ page.description_markdown | markdownify }}
+
+          <h4>O que você aprenderá:</h4>
+          {{ page.sku }}
           
           </div> 
         </div>
