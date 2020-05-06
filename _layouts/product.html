@@ -9,18 +9,21 @@ layout: default
 <div class="content">
   <section class="page">
     <div class="container">
-     <div class="product-container">
-      
+      <div class="product-container">
         {% include product-styles.html product=page %}
       
         <div class="product-details" id="add">
-          
+          <h3>{{ page.name }}</h3>
+          {{ page.description_markdown | markdownify }}
+
+          <h4>O que você aprenderá:</h4>
+          {{ page.sku }}
           
           </div> 
         </div>
       </div>
     </div>
-  <div class="kill"><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+	<div class="kill"><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html class="supernova"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="alternate" type="application/json+oembed" href="https://www.jotform.com/oembed/?format=json&amp;url=https%3A%2F%2Fform.jotform.com%2F201196277057660" title="oEmbed Form">
@@ -74,6 +77,7 @@ layout: default
   .kill{
     float: right;
     margin-right: 50px;
+    margin-top: 400px;
     
   }
   .page{
